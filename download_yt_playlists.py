@@ -5,7 +5,7 @@ import os
 playlist_url = "https://www.youtube.com/playlist?list=PL3iN2vsqIoQRnw68IiF8FWx4JbdHwtc_t"
 
 # Directory to save the downloaded videos
-output_directory = r"C:\Users\LENOVO\Desktop\Cosmic"
+output_directory = getcwd()
 
 # Create a Playlist object
 playlist = Playlist(playlist_url)

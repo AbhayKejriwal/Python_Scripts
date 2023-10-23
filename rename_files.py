@@ -1,7 +1,7 @@
 import os
 
 # Directory containing the files
-directory_path = r"C:\Users\LENOVO\Desktop"
+directory_path = r""
 
 # Iterate through all files in the directory
 for filename in os.listdir(directory_path):

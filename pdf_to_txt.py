@@ -1,6 +1,5 @@
 from PyPDF2 import PdfReader
 import os
-from file_operations import save_text_to_file
 
 def extract_text_from_pdf(pdf_file_path):
     try:
@@ -28,18 +27,34 @@ def process_pdf(pdf_file_path):
             base_name = os.path.basename(pdf_file_path)
             txt_file_path = os.path.splitext(base_name)[0] + '.txt'
 
-            # Save the extracted text to the text file using the save_text_to_file function
-            saved_file_path = save_text_to_file(extracted_text, txt_file_path)
+            # Get the directory path of the original PDF
+            pdf_directory = os.path.dirname(pdf_file_path)
 
-            return saved_file_path
+            # Construct the full path for the text file in the same directory
+            txt_file_path = os.path.join(pdf_directory, txt_file_path)
+
+            # Save the extracted text to the text file
+            with open(txt_file_path, 'w', encoding='utf-8') as file:
+                file.write(extracted_text)
+
+            return txt_file_path
         else:
-            return "Failed to extract text from the PDF."
+            return f"Failed to extract text from {pdf_file_path}"
     except Exception as e:
         return str(e)
 
-if __name__ == "__main__":
-    # Replace 'your_pdf_file.pdf' with the path to your PDF file
-    pdf_file_path = 'C:\\Users\\LENOVO\\Downloads\\Ethical Hacking Transcripts\\lec1.pdf'
-    result = process_pdf(pdf_file_path)
+def process_directory(folder_path):
+    for root, dirs, files in os.walk(folder_path):
+        for file in files:
+            if file.lower().endswith('.pdf'):
+                pdf_file_path = os.path.join(root, file)
+                result = process_pdf(pdf_file_path)
+                print(result)
+        for dir in dirs:
+            subdirectory_path = os.path.join(root, dir)
+            process_directory(subdirectory_path)  # Recursive call to process subdirectories
 
-    print(result)
+if __name__ == "__main__":
+    # Replace 'your_folder_path' with the path to the folder containing PDF files
+    folder_path = ''
+    process_directory(folder_path)

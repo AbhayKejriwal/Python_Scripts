@@ -49,7 +49,7 @@ def process_subfolders(root_folder, crop_box):
 
 if __name__ == "__main__":
     # Get the current folder where the script is executed
-    current_folder = "C:\\Users\\LENOVO\\Documents\\#My Second Brain\\1-Projects\\Notion"
+    current_folder = ""
 
     # Define the cropping rectangle as (left, upper, right, lower)
     crop_box = (0, 170, 1900, 1000)  # Adjust the values as needed
