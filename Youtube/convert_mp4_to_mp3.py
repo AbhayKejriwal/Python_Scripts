@@ -2,10 +2,10 @@ from moviepy.editor import VideoFileClip
 import os
 
 # Directory containing the MP4 files
-input_directory = r""
+input_directory = os.getcwd()
 
 # Directory to save the converted MP3 files
-output_directory = r""
+output_directory = os.getcwd()
 
 # Ensure the output directory exists
 os.makedirs(output_directory, exist_ok=True)
