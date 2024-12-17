@@ -1,0 +1,257 @@
+We’ve talked about plastics quite a 
+bit on this channel over the years. It  
+is of course one of the most versatile and 
+useful material groups known to humankind,  
+without which our modern 
+world would simply not exist.
+But they’re also a huge source of CO2 emissions 
+in production, which is a problem still requiring  
+a robust and workable solution, AND, largely as 
+a result of human inability to give a damn about  
+where plastic products go after we’ve used them 
+and tossed them away, they’re also clogging up  
+river systems in certain parts of the world and 
+eventually making their way into our oceans to  
+cause even more damage there. They take decades 
+or centuries, or in some cases even MILLENNIA to  
+break down, and as they physically disintegrate 
+they form microplastics that get into the marine  
+food chain and eventually into human beings who 
+choose to eat seafood. I realise you know all that  
+stuff already, but it never hurts to remind 
+ourselves of these sorts of things, does it?
+According to Statista, we humans 
+produced more than four hundred  
+million metric tonnes of new 
+plastics in twenty-twenty-two,  
+and that number could be as high as one point 
+two BILLION metric tonnes by twenty sixty.
+The plastics that do get into the oceans tend to 
+move around in the currents and then get caught up  
+in so-called sub-tropical gyres which concentrate 
+large quantities of the garbage swirling round and  
+round, like water circling a plughole, eventually 
+taking it down to the depths. Perhaps the best  
+known of these is the North Pacific Garbage 
+Patch which is reckoned to contain more than  
+eighty-thousand metric tonnes of floating plastic 
+debris. We humans have made a few well meaning,  
+but ultimately a bit half-arsed attempts at 
+cleaning it all up, so most of it is still there.
+Now though, new research has discovered 
+that nature has got bored waiting for us  
+to sort it out and has started to find its 
+own solutions to the ocean plastics problem.
+Hello and welcome to Just Have a Think.
+The study in question comes from a group 
+of scientists at the Royal Netherlands  
+Institute for Sea Research in conjunction with 
+colleagues from Utrecht University, the Ocean  
+Cleanup Foundation and research institutes in 
+Paris, Copenhagen and St Gallen, Switzerland.
+One important characteristic that ties the 
+majority of man-made plastics together is  
+that they consist of polymer chains 
+made from oil-based hydrocarbons,  
+and that’s where it gets interesting, because that 
+means plastics are a potential carbon and energy  
+source for microbes that exist on land AND in the 
+sea. The challenge those microbes have is finding  
+a way to break down the intentionally robust and 
+strong bonds in the polymer chains that we humans  
+have so cleverly constructed, so that they can 
+get at the constituent monomers they can use.
+Ultraviolet light from the sun starts to do that 
+job very slowly as plastics bob around on the  
+ocean surface, but what this latest research 
+paper found was a type of ocean fungus called  
+Parengyodontium Album, or P.album for short, 
+that can essentially consume POLYETHYLENE,  
+which makes up the bulk of marine plastics, 
+biodegrade it and convert it into carbon dioxide.
+Now you might be thinking, oh well that’s 
+just great Dave. We’ve discovered something  
+that takes one problem and turns into 
+another one! Brilliant! But bear with  
+me here. The science bods measured 
+the CO2 being produced and they reckon  
+it’s about the equivalent of the low 
+amount produced when humans breathe.
+Scientists are already aware of the amazing 
+ability of land-based fungi to degrade vast  
+amounts and varieties of compounds including 
+complex hydrocarbons like lignin and cellulose,  
+and pollutants like DDT, and EVEN environmentally 
+hazardous compounds like TNT. They do that with a  
+bunch of powerful digestive enzymes, and in 
+fact several land-based fungal species are  
+already known to degrade plastic polymers. Much 
+less is known about marine-based fungi though,  
+so this new discovery represents 
+something of a breakthrough.
+The team travelled to the North Pacific 
+garbage patch to do their research. Having  
+scooped up a decent representative sample 
+of floating plastics they isolated the  
+marine fungus from the microbial film 
+covering the waste and took it back to  
+the lab to grow it in properly controlled 
+conditions and on specific plastic types.
+The important breakthrough here was 
+that the researchers were able to put  
+some numbers to how quickly the fungus 
+was able to break down the PE plastic.
+In lab conditions that rate was around 
+zero-point-zero-five percent per day.  
+That might not sound particularly 
+rapid to you and me, but it equates  
+to full consumption in two-thousand 
+days or about five and a half years.
+On a ‘plastics degradation’ 
+timescale that’s like lighting fast! 
+One major caveat is that the P.album 
+fungi was tested under two different  
+conditions – one in the presence of UV 
+light and one without any light. The  
+results showed that there does need to be at 
+least a little bit of UV degradation first,  
+even for just a few days, before 
+the fungus could get to work.
+For surface plastics that‘s not a 
+problem, but of course plastics are  
+now being found at greater depths, 
+and even right down on the seabed.
+In a recent interview with the 
+online journal Phys dot org,  
+the paper’s lead author, Annika Vaksmaa said
+"Marine fungi can break down complex materials 
+made of carbon. There are numerous amounts of  
+marine fungi, so it is likely that in 
+addition to the four species identified  
+so far, other species also contribute to 
+plastic degradation. There are still many  
+questions about the dynamics of how plastic 
+degradation takes place in deeper layers,"
+Scientists are not resting 
+on their laurels though,  
+or relying solely on nature for all the 
+answers. In fact, this latest paper comes  
+hot on the heels of an earlier study, 
+focussed on a polymer called Nylon-6,  
+which is typically found in cheap carpets 
+and clothing, and most significantly is  
+the chief component of the huge catch nets 
+used in the modern-day fishing industry.
+Fishing nets are routinely discarded 
+at sea by unscrupulous operators,  
+and they’ve become the scourge of the oceans,  
+polluting water bodies, damaging coral reefs, 
+and endangering birds and marine animals.
+A team at Northwestern University in Illinois 
+has been developing a new catalyst that they  
+reckon can completely break down the polymer 
+chains in Nylon 6 in just a matter of minutes.  
+Their tests also show that there are no harmful 
+by-products produced as a result of the reaction,  
+and perhaps most importantly of all, their new 
+process doesn’t involve any nasty toxic chemicals,  
+to make it work, and the reaction happens at a 
+much lower temperature than previous methods.
+And to cap it all, at the end of the 
+process you actually get a workable product  
+that can be upcycled into new Nylon6 polymers.
+The most common method of dealing with Nylon6  
+at the moment is simply to bury it in 
+land fill or burn it, releasing CO2,  
+toxic pollutants and nitrogen oxides 
+that cause all sorts of health problem. 
+Previous attempts at breaking down this tough 
+polymer have involved temperatures as high  
+as three hundred and fifty degrees 
+Celsius, plus high-pressure steam,  
+which of course requires huge amounts of energy to 
+produce, or basically melting it with strong acid,  
+which is not ideal, and doesn’t produce 
+anything that you can re-use afterwards. 
+The Illinois team achieved their improved result 
+using Yttrium and lanthanide metals as a catalyst.  
+Yttrium is a cheap and abundant element found 
+in the transition metals section of the periodic  
+table, and the lanthanide metals sit right 
+underneath with similar chemical compositions 
+Samples of Nylon6 were heated up 
+to just above it’s melting point  
+of two hundred and fifteen degrees Celsius 
+in the presence of only a very tiny amount  
+of the Yttrium lanthanide catalyst, and 
+ninety-ninety percent depolymerisation  
+was achieved. In other words, the Nylon6 
+literally fell apart in a matter of minutes. 
+When they analysed what had happened during the 
+reaction , the scientists found that the Yttrium  
+Lanthanide catalyst was able to chemically 
+unzip the Nylon chains and cause parts of the  
+chain to jump from one to another in a process 
+called inter-chain hopping. Precisely how and  
+why that effect occurs is a bit outside 
+the scope of my limited brain I’m afraid, 
+but the important thing is the result. Which is 
+that this process was found to be particularly  
+effective on those pesky fishing nets, as 
+well on cheap nylon carpets and clothing. 
+One of the most encouraging advantages 
+of this new process is the fact that the  
+catalyst is highly selective. It only attacks 
+Nylon-6 polymers and doesn’t do any damage to  
+surrounding materials. That’s great news for 
+the recycling industry because it means they  
+can apply the method to large volumes of unsorted 
+waste and selectively target the Nylon-6 products. 
+In an ideal world we would have already found 
+robust alternatives to oil based plastics, but  
+the reality is that most of the options, including 
+bioplastics, have their own challenges like cost,  
+energy consumption and land use, so even 
+after we finally wake up and stop burning oil,  
+we will still be processing it in refineries 
+to make the solid materials that have become  
+indispensable to modern western life. Finding 
+ways to recycle that plastic without degrading  
+it has become something of a holy grail.
+The authors of this report point out that recycled  
+Nylon6 for example, is actually more valuable than 
+virgin nylon, largely due to the high demand for  
+recycled materials in the fashion industry. If 
+processes like this can be developed at scale  
+for all plastic types then it would represent a 
+very significant reduction in the carbon footprint  
+of producing virgin monomers from crude oil.
+And, you know, every little helps doesn’t it? 
+The Illinois team have already filed 
+patents on their procedure and are  
+already getting interest from industrial 
+partners, so hopefully it won’t be long before  
+we see this process in a commercial environment 
+helping to solve our global plastics problem. 
+That’s it for this week. A massive thank you, 
+as always, to our amazing Patreon supporters  
+who keep this channel completely independent AND 
+enable me to keep ads and sponsorship messages out  
+of your way. And an extra special ‘thank you’ 
+to the folks whose names are scrolling up the  
+screen beside me here, all of whom celebrate 
+an anniversary of Patreon support in August.
+If you’d like to support my work here at the 
+channel and get involved with other like-minded  
+folks, then you can do just that by visiting 
+patreon dot com forward slash just have a think. 
+And of course, you can hugely support us and 
+help us get to six hundred thousand subscribers  
+by hitting the free subscribe button 
+on YouTube. Doesn’t cost a penny to do  
+that and it’s just a simple click away, 
+either down there or on that icon there. 
+As always, thanks very much for 
+watching! Have a great week,  
+and remember to just have a think.
+See you next week.

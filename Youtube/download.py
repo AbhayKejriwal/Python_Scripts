@@ -1,30 +1,30 @@
-from pytube import YouTube
-import os
 import sys
+from pytube import YouTube
 
-def download_video(video_url):
-  # Create a YouTube object
-    yt = YouTube(video_url)
-    
+# Function to download YouTube video
+def download_video(url):
     try:
-      # Get the highest resolution stream
-      video_stream = yt.streams.get_highest_resolution()
-      
-      # Construct the output file path
-      video_filename = yt.title + ".mp4"
-      output_directory = os.getcwd()
-      output_path = os.path.join(output_directory, video_filename)
-      
-      # Check if the video file already exists
-      if os.path.exists(output_path):
-          print(f"Video '{video_filename}' already exists. Skipping.")
-      else:
-          print(f"Downloading video: {video_filename}")
-          video_stream.download(output_path=output_directory)
-          print(f"Downloaded")
-    except Exception as e:
-      raise
+        # Create a YouTube object with the provided URL
+        yt = YouTube(url)
 
-if __name__=="__main__":
-  for url in sys.argv[1:]:
-    download_video(url)
+        # Get the highest resolution video stream
+        stream = yt.streams.get_highest_resolution()
+
+        # Download the video to the current directory
+        stream.download()
+
+        print(f'Video downloaded successfully: {yt.title}')
+    except Exception as e:
+        print(f'Error: {str(e)}')
+
+if __name__ == '__main__':
+    # Check if the URL is provided as a command line argument
+    if len(sys.argv) < 2:
+        print("Usage: python download_video.py <YouTube URL>")
+        sys.exit(1)
+
+    # Get the URL from the command line argument
+    video_url = sys.argv[1]
+
+    # Call the function to download the video
+    download_video(video_url)
