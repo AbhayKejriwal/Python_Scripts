@@ -8,9 +8,14 @@ merge pdf - to test and refactor
 
 pdf to text - to test
 
+
 compress images - to create
+
 img to doc/pdf - to create
 
+
 yt download - to create new
+
 mp4 to mp3 - to test
+
 get transcript - works
