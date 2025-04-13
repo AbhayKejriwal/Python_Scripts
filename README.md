@@ -3,7 +3,9 @@
 A collection of various python scripts that you can run on your computer to do a lot of things.
 
 extract images from pdf - to test
+
 merge pdf - to test and refactor
+
 pdf to text - to test
 
 compress images - to create
